@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <h1>Hey there! I'm Jean 👋</h1>
+  <strong>Fullstack Developer | Java & Spring Boot | Vue.js</strong>
+</p>
 
-<!--
-**io-deepsea/io-deepsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Fullstack Developer Freelancer** since 2023.
+- 🎓 Computer Science Student at **[UFPA](https://www.linkedin.com/school/universidade-federal-do-par%C3%A1/)**.
+- ❤️ I'm passionate about **Java** in Spring Boot Applications, **Vue.js**, and **TypeScript**.
+- 💬 If you wish to work with me or have any questions, please contact me via the links in my bio.
+
+---
+
+### 🛠️ Tech Stack
+
+<code><img height="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="40" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+<code><img height="40" alt="vue" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+
+---
+### 📌 Top Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Julius](https://github.com/io-deepsea/julius)** | Discord bot for game price tracking. | `Java` `JDA` `API` |
+| **[Traccar Server SSE](https://github.com/io-deepsea/traccar-server-sse)** | Real-time tracking server implementation. | `Java` `Spring` `SSE` |
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jean-rem%C3%A9dios-90928b264/">
+    <img alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  </a>
+</p>
+
