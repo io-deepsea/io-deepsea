@@ -8,6 +8,7 @@
 **About me**
 
 - 💼 **Fullstack Developer Freelancer** since 2023.
+- 🏢 Previously at **[@DevOffice](https://github.com/DevOffice)** as a Fullstack Developer.
 - 🎓 Computer Science Student at **[UFPA](https://www.linkedin.com/school/universidade-federal-do-par%C3%A1/)**.
 - ❤️ I'm passionate about **Java** in Spring Boot Applications, **Vue.js**, and **TypeScript**.
 - 💬 If you wish to work with me or have any questions, please contact me via the links in my bio.
