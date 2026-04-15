@@ -35,7 +35,7 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jean-rem%C3%A9dios-90928b264/">
+  <a href="https://www.linkedin.com/in/jean-remedios/">
     <img alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   </a>
 </p>
